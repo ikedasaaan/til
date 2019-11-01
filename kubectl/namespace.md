@@ -14,6 +14,5 @@ kubectl config set-context $(kubectl config current-context) --namespace=kube-sy
 
 
 ## 各種コマンドでの指定
-
 kubectl --namespace=kube-system get pod
 ```
