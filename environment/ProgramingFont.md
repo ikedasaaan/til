@@ -29,5 +29,5 @@ font-cica
 $ brew cask install font-cica
 ```
 
-[brew tapとは](https://qiita.com/saa/items/85ed5e914d424fbf9fd6)
+[brew tapとは](https://qiita.com/saa/items/85ed5e914d424fbf9fd6)  
 [brew caskとは](https://qiita.com/swallowtail62/items/61244ea3c7d00f692823)
