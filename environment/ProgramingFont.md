@@ -11,22 +11,21 @@
 $ brew tap homebrew/cask-fonts
 
 # 検索
-$ brew search ricty
+$ brew search cica
 ==> Casks
-font-ricty-diminished
-
+font-cica
 # インストール
 $ brew cask install font-cica
 ```
 
 ```
 # 検索
-$ brew search cica
+$ brew search ricty
 ==> Casks
-font-cica
+font-ricty-diminished
 
 # インストール
-$ brew cask install font-cica
+$ brew cask install font-ricty-diminished
 ```
 
 [brew tapとは](https://qiita.com/saa/items/85ed5e914d424fbf9fd6)  
